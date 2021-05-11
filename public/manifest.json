@@ -1,6 +1,7 @@
 {
     "name": "budgetTracker",
     "short_name": "Bdgt_Trkr",
+    "start_url": ".",
     "icons": [
       {
         "src": "./icons/icon-192x192.png",
@@ -11,8 +12,8 @@
         "sizes": "512x512",
         "type": "image/png"
       }],
-      "scope": "/",
-      "start_url": "/start.html"
+      
+      
       
   }
   
